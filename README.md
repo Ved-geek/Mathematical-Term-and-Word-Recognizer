@@ -15,10 +15,15 @@ Earlier there were speech to text converter which were converting the pronounced
 ## Scope:
 
 -Word, Phrases, Sentences Recognition system.
+
 -Mathematical equations, formulae, symbols Recognition system.
+
 -We give option to user switch between normal recognition and Math recognition system.
+
 -We built Graphical User Interface for users with basic Menu options. 
+
 -We also provide options to save a documents in various formats like .txt, .pdf, .docx, etc.
+
 -In GUI we will give basic formatting options to the user for their convenience.
 
 ## Architecture:
